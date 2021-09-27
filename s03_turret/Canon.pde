@@ -38,6 +38,7 @@ class Canon extends GraphicObject {
     
     
   }
+  
 
   void display() {
     
